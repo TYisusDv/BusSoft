@@ -1,5 +1,5 @@
 # BusSoft
-Proyecto Tecnologico Arandas. Punto de venta en MVC Java.
+Proyecto Tecnologico Arandas 4to Semestre 2022. Punto de venta en MVC Java.
 
 # Info
 - No tiene encriptacion de contraseñas
