@@ -1765,7 +1765,7 @@ public class controlador implements ActionListener {
                     String contenido = "Punto de venta\n"
                     + "BUSSOFT\n"
                     + "JESUS NAVARRO SALCIDO\n"
-                    + "Calle Santa Maria Del Valle, 2\n"
+                    + "Calle Prueba, 2\n"
                     + "47184 - Arandas Jalisco\n"
                     + "Telefono: 3481468309\n"
                     + "\n"
